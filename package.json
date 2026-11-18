@@ -25,6 +25,9 @@
   "dependencies": {
   
     
+  "@google/genai": "^3.3.0",
+  
+    
   "cors": "^2.8.6",
   
     
